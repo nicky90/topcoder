@@ -70,6 +70,12 @@ They don't have sufficient budget.
 Returns: 10
  */
 
+#include <vector>
+#include <string>
+#include <algorithm>
+
+using namespace std;
+
 
 class MysteriousRestaurant {
 public:
